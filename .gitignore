@@ -1,4 +1,9 @@
 *.class
+.metadata/
+.recommenders/
+Igneous-Rocks/.classpath
+Igneous-Rocks/.project
+Igneous-Rocks/.settings
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
